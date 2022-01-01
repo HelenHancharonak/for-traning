@@ -1,2 +1,2 @@
 # for-traning
-special for traning
+special for training
